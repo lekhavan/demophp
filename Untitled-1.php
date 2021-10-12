@@ -1,1 +1,12 @@
-<?php "<p>Hello World!</p>"; ?>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HELLO WORLD!</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
